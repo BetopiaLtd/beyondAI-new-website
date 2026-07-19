@@ -1,6 +1,5 @@
 export const leaders = [
-
-    {
+  {
     name: "Ronald Vergara",
     role: "President",
     image: "/directors/new/ronald_vergara_up.png",
@@ -10,7 +9,7 @@ export const leaders = [
       "He is also the founder of Beyond-AI.io, where he leads the development of advanced AI automation, agentic systems, and enterprise web solutions. Ronald’s work focuses on using technology, strategic partnerships, and innovative marketing to create scalable platforms that solve real-world problems and expand access to critical services for veterans and businesses alike.",
     ],
   },
-    {
+  {
     name: "MD Naimul Hasan Durjay",
     role: "Deputy Director, Beyond AI | Technology & Growth Strategist",
     image: "/directors/durjay.jpeg",
@@ -29,7 +28,7 @@ export const leaders = [
       "Jeffrey Arcamo Bernaldez serves as Director of Philippines Relations for Beyond AI, where he acts as a key liaison between the company and government, business, and institutional partners across the Philippines. A skilled public relations professional and accomplished businessman, Jeffrey brings extensive experience in high-level sales, marketing, and strategic relationship building. With strong knowledge of Philippine government structure, policy, and regulatory environments, he plays an important role in helping Beyond AI develop partnerships, navigate government initiatives, and expand opportunities within the country’s rapidly growing technology sector. His ability to connect leadership across the public and private sectors makes him a valuable bridge between innovation and government collaboration.",
     ],
   },
-    {
+  {
     name: "Muhammad Monir Hossain",
     role: "Founder & Chairman, Betopia Group",
     image: "/directors/monir.svg",
@@ -55,7 +54,6 @@ export const leaders = [
     reverse: true,
     paragraphs: [
       "Christopher French is a veteran advocate and former military serviceman dedicated to helping fellow veterans secure the benefits they earned through their service. As co-founder of VALRPro, Chris works closely with veterans to navigate the VA disability claims process, combining real-world experience with a mission to simplify and modernize access to VA benefits. Through his advocacy, outreach, and leadership, he continues to support veterans and their families by providing guidance, education, and resources to improve their quality of life.",
-      
     ],
   },
   {
@@ -64,7 +62,9 @@ export const leaders = [
     image: "/directors/macatoman1.jpeg",
     reverse: false,
     paragraphs: [
-      "Abdulgani Macatoman is a Filipino public servant, entrepreneur, author, and TV host with over 30 years of leadership experience. A former DTI Undersecretary and CFO Acting Secretary, he is a dedicated advocate for MSME development, peace-building, and sustainable growth, particularly in Mindanao. He hosts Kabuhayan at Negosyo and authored Global Halal Economy. Holding a BSBA in Accounting and an MBA, he balances his corporate expertise with national service as a Reservist Colonel, alongside passions for riding and extreme sports"
+      // "Abdulgani Macatoman is a Filipino public servant, entrepreneur, author, and TV host with over 30 years of leadership experience. A former DTI Undersecretary and CFO Acting Secretary, he is a dedicated advocate for MSME development, peace-building, and sustainable growth, particularly in Mindanao. He hosts Kabuhayan at Negosyo and authored Global Halal Economy. Holding a BSBA in Accounting and an MBA, he balances his corporate expertise with national service as a Reservist Colonel, alongside passions for riding and extreme sports"
+      "Abdulgani Macatoman is a Filipino public servant, entrepreneur, author, and TV host with over 30 years of leadership experience. He previously served as Undersecretary of the Department of Trade and Industry (DTI) and Acting Secretary of the Commission on Filipinos Overseas (CFO), championing investment promotion, MSME development, and inclusive growth.",
+      "A business consultant and corporate director, he advocates for entrepreneurship, peace-building, and sustainable development, especially in Mindanao. He hosts Kabuhayan at Negosyo and authored Global Halal Economy. He holds a BSBA in Accounting, pursued law, and completed an MBA. He is also an avid rider, extreme sports enthusiast, and Reservist Colonel, reflecting a lifelong commitment to national service.",
     ],
   },
 ];
