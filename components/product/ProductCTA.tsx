@@ -172,7 +172,7 @@ export function ProductCTA() {
 
                   {/* Contact row */}
                   <div className="grid grid-cols-2 gap-3">
-                    {[{icon:"📞",l:"Call Us",v:"(512) 827-2606",href:"tel:+13128773570"},{icon:"✉️",l:"Email Us",v:"Info@beyondai.ph",href:"mailto:Info@beyondai.ph"}].map((c,i) => (
+                    {[{icon:"📞",l:"Call Us",v:"+44 7512 549837",href:"tel:+13128773570"},{icon:"✉️",l:"Email Us",v:"sakib@beyondai.ph",href:"mailto:sakib@beyondai.ph"}].map((c,i) => (
                       <a key={i} href={c.href} className="rounded-xl bg-white/[0.03] border border-white/[0.07] p-4 hover:bg-white/[0.07] transition-all hover:-translate-y-0.5">
                         <div className="text-lg mb-2">{c.icon}</div>
                         <p className="text-[9px] uppercase tracking-[0.15em] text-white/30 mb-1">{c.l}</p>

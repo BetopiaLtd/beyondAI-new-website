@@ -241,17 +241,17 @@ useEffect(() => {
             <div className="flex items-center gap-4">
               <Mail size={22} className="text-orange-500" />
               <a
-                href="mailto:Info@beyondai.ph"
+                href="mailto:sakib@beyondai.ph"
                 className="text-gray-200 hover:text-orange-400 transition-colors"
               >
-                Info@beyondai.ph
+                sakib@beyondai.ph
               </a>
             </div> 
 
             <div className="flex items-center gap-4">
               <PhoneIncoming size={22} className="text-orange-500" />
               <div className="text-gray-200">
-                (512) 827-2606 
+                +44 7512 549837 
               </div>
             </div>
           </div>

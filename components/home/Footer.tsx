@@ -55,8 +55,8 @@ export default function Footer() {
           <div>
             <p className="text-white text-lg mb-4">Address</p> 
             <p className="text-gray-400 mt-1">New York, Austin TX, Manila, Dhaka, Switzerland</p>
-            <p className="text-gray-400 mt-4">(512) 827-2606  </p>
-            <p className="text-gray-400 mt-4">Info@beyondai.ph</p> 
+            <p className="text-gray-400 mt-4">+44 7512 549837</p>
+            <p className="text-gray-400 mt-4">sakib@beyondai.ph</p> 
           </div>
         </div>
 

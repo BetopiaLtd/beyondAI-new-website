@@ -676,15 +676,15 @@ export function ReadyToTransform() {
                     <div key={activeOffice} className="office-card-active px-5 py-4">
                       <p className="text-white font-semibold text-sm">{offices[activeOffice].flag} {offices[activeOffice].city}</p>
                       <p className="text-white/40 text-xs mt-1">{offices[activeOffice].detail}</p>
-                      <p className="text-white/30 text-xs mt-0.5">Info@beyondai.ph</p>
+                      <p className="text-white/30 text-xs mt-0.5">sakib@beyondai.ph</p>
                     </div>
                   </div>
 
                   {/* contact cards */}
                   <div className="grid grid-cols-2 gap-3">
                     {[
-                      { icon: "📞", label: "Call Us", val: "(512) 827-2606", link: "tel:+13128773570" },
-                      { icon: "✉️", label: "Email Us", val: "Info@beyondai.ph", link: "mailto:Info@beyondai.ph" },
+                      { icon: "📞", label: "Call Us", val: "+44 7512 549837", link: "tel:+13128773570" },
+                      { icon: "✉️", label: "Email Us", val: "sakib@beyondai.ph", link: "mailto:sakib@beyondai.ph" },
                     ].map((c, i) => (
                       <a key={i} href={c.link}
                         className="rounded-xl bg-white/[0.03] border border-white/[0.07] p-4 hover:bg-white/[0.07] transition-all hover:-translate-y-0.5">

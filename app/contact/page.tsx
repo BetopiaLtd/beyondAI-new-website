@@ -22,7 +22,7 @@ const contactInfo = [
       </svg>
     ),
     label: "Email Us",
-    value: "Info@beyondai.ph",
+    value: "sakib@beyondai.ph",
     sub: "We reply within 24 hours",
   },
   {
