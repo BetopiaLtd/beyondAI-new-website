@@ -34,7 +34,7 @@ export default function Footer() {
             </div> */}
              <Link href="/">
           {/* <video src="/logo_video_3.mov" className="w-[176px] h-[68px]" autoPlay muted loop></video> */}
-            <Image src="/logo2.png" alt="logo" width={196} height={98} />
+            <Image src="/logo_v2.png" alt="logo" width={206} height={98} />
             {/* <Image src="/up_logo.png" alt="logo" width={176} height={68} /> */}
           </Link>
 

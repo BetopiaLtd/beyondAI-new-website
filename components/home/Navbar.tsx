@@ -42,7 +42,7 @@ useEffect(() => {
         <div className="max-w-[1660px] w-11/12 mx-auto flex items-center justify-between">
           <Link href="/">
           {/* <video src="/logo_video_3.mov" className="w-[176px] h-[68px]" autoPlay muted loop></video> */}
-            <Image src="/logo2.png" alt="logo" width={196} height={98} />
+            <Image src="/logo_v2.png" alt="logo" width={226} height={98} />
             {/* <Image src="/up_logo.png" alt="logo" width={176} height={68} /> */}
           </Link>
 
@@ -186,7 +186,7 @@ useEffect(() => {
         <div className="flex items-center justify-between p-6 border-b border-white/10">
           <Link href="/">
             {/* <Image src="/up_logo.png" alt="logo" width={176} height={68} /> */}
-            <Image src="/logo2.png" alt="logo" width={196} height={98} />
+            <Image src="/logo_v2.png" alt="logo" width={226} height={98} />
           </Link>
 
           <button
